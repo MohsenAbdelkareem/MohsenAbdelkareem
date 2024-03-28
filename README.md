@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohsen Abdelkareem</h1>
 <h3 align="center">A passionate mobile developer from Egypt</h3>
 
-- 🔭 I’m currently working at [Squadio](https://squadio.com)
+- 🔭 I’m currently working at [Squadio]([https://squadio.com](https://www.linkedin.com/company/joinsquadio/mycompany/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
