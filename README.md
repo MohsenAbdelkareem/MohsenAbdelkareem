@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Squadio](https://www.linkedin.com/company/joinsquadio/)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Kotlin Multiplatform**
 
 - 📫 How to reach me **mohsen.abdelkareem@gmail.com**
 
