@@ -1,90 +1,62 @@
-<h1 align="center">Hi 👋, I'm Mohsen Abd Elkareem</h1>
-<h3 align="center">Mobile Team Lead | Senior Android Developer (Kotlin) | Flutter Developer</h3>
+<a href="https://eilyatech.com">
+  <img src="assets/banner.png" alt="Mohsen Abd Elkareem — Founder & CEO, EilyaTech" width="100%">
+</a>
+
+<h1 align="center">Mohsen Abd Elkareem</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohsen-abd-elkareem-600845a2" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohsen%20Abd%20Elkareem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mohsen.abdelkareem@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mohsen.abdelkareem%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://youtube.com/@mo7senabdelkareem" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Programming%20Bebasata-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://linktr.ee/MohsenAbdElkareem" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-All%20Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
-  </a>
+  <b>Founder & CEO @ <a href="https://eilyatech.com">EilyaTech</a></b> · Mobile Architect · 10+ years building Android, Flutter & KMP apps
+</p>
+
+<p align="center">
+  <a href="https://eilyatech.com"><img src="https://img.shields.io/badge/EilyaTech-eilyatech.com-302820?style=for-the-badge&labelColor=B94F35&logoColor=F1EDE3" alt="EilyaTech"></a>
+  <a href="https://www.linkedin.com/in/mohsen-abd-elkareem/"><img src="https://img.shields.io/badge/LinkedIn-Connect-302820?style=for-the-badge&logo=linkedin&logoColor=F1EDE3" alt="LinkedIn"></a>
+  <a href="https://youtube.com/@mo7senabdelkareem"><img src="https://img.shields.io/badge/YouTube-Programming%20Bebasata-302820?style=for-the-badge&logo=youtube&logoColor=F1EDE3" alt="YouTube"></a>
+  <a href="mailto:mohsen@eilyatech.com"><img src="https://img.shields.io/badge/Email-mohsen%40eilyatech.com-302820?style=for-the-badge&logo=maildotru&logoColor=F1EDE3" alt="Email"></a>
+  <a href="https://linktr.ee/MohsenAbdElkareem"><img src="https://img.shields.io/badge/All%20links-Linktree-302820?style=for-the-badge&logo=linktree&logoColor=F1EDE3" alt="Linktree"></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🚀 **Mobile Team Lead** with **9+ years of experience** in Android development
-- 📱 Strong in **Kotlin, Jetpack Compose, MVVM, Clean Architecture**
-- 🔥 Experienced with **Firebase, Room, Retrofit, WorkManager, Coroutines**
-- 🧩 Cross-platform development using **Flutter** (Provider / MVVM structure)
-- ⚙️ Hands-on with **CI/CD pipelines**, release automation, and app distribution
-- 🎓 I enjoy mentoring juniors and simplifying complex concepts through my YouTube channel
+### About
 
----
+I build **applied AI products for Arabic-speaking creators and businesses** at EilyaTech, in
+Alexandria, Egypt. Before founding it, I spent 10+ years as a **Senior Mobile Engineer and Mobile
+Team Lead**. I shipped production apps in Kotlin, Jetpack Compose, Flutter and Kotlin
+Multiplatform, designed complex HMI-style UI systems, and led teams that ship reliably.
 
-### 💼 Current Role
-- 🔭 Currently working at **Squadio**
+### What I'm building
 
----
+| | Product | What it does |
+|---|---|---|
+| 🪶 | **[EilyaTech](https://eilyatech.com)** | The company: applied AI for Arabic creators and businesses |
+| 🎬 | **Eilya Studio** | An Arabic-first AI content studio: from an idea to a published short video in your own dialect, from one phone |
+| 💬 | **Eilya Flow** | Customer engagement and workflows: WhatsApp and Facebook leads become automated conversations, broadcasts and one shared inbox |
 
-### 🌱 Currently Learning
-- Kotlin Multiplatform (KMP)
+### Expertise
 
----
-
-### 📄 Resume / CV
-- 📄 View my CV here:  
-  <a href="https://drive.google.com/file/d/1Kw1onrrFhBMXgvloBK7rhiNGij914vRX/view?usp=sharing" target="_blank">
-    https://drive.google.com/file/d/1Kw1onrrFhBMXgvloBK7rhiNGij914vRX/view
-  </a>
-
----
-
-<h3 align="left">🤝 Connect with me</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/mohsen-abd-elkareem-600845a2" target="blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="mohsen-abd-elkareem-600845a2" height="30" width="40" />
-  </a>
-  <a href="https://youtube.com/@mo7senabdelkareem" target="blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-      alt="YouTube" height="30" width="40" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,java,firebase,git,githubactions,figma&theme=dark" alt="Tech stack">
 </p>
 
----
+| Area | Stack |
+|---|---|
+| **Android** | Kotlin · Jetpack Compose · Coroutines & Flow · Room · WorkManager · Paging · Retrofit |
+| **Cross-platform** | Flutter · Dart · Kotlin Multiplatform (KMP) |
+| **Architecture** | Clean Architecture · MVVM / MVI · modular codebases · offline-first |
+| **UI systems** | HMI-style interfaces, multi-state screens, advanced navigation, performance tuning |
+| **Delivery** | CI/CD with GitHub Actions · Firebase App Distribution · unit testing (JUnit, Mockito) |
+| **Leadership** | Leading mobile teams · code reviews · architecture decisions · mentoring |
 
-<h3 align="left">🛠️ Tech Stack</h3>
+### Teaching
 
-<p align="left">
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https
+I explain programming in plain Arabic on **[Programming Bebasata](https://youtube.com/@mo7senabdelkareem)**:
+practical Android, Kotlin, Flutter and mobile-architecture tutorials for developers who want to
+build better apps.
+
+### Let's talk
+
+Partnerships, investment, or building something together:
+**[mohsen@eilyatech.com](mailto:mohsen@eilyatech.com)** · **[eilyatech.com](https://eilyatech.com)**
+
+<p align="center"><sub><b>Create. Connect. Move.</b></sub></p>
