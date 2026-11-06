@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://eilyatech.com"><img src="https://img.shields.io/badge/EilyaTech-eilyatech.com-302820?style=for-the-badge&labelColor=B94F35&logoColor=F1EDE3" alt="EilyaTech"></a>
-  <a href="https://www.linkedin.com/in/mohsen-abd-elkareem/"><img src="https://img.shields.io/badge/LinkedIn-Connect-302820?style=for-the-badge&logo=linkedin&logoColor=F1EDE3" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/@mohsen.abd.elkareem"><img src="https://img.shields.io/badge/YouTube-Programming%20Bebasata-302820?style=for-the-badge&logo=youtube&logoColor=F1EDE3" alt="YouTube"></a>
+  <a href="https://www.linkedin.com/in/mohsenabdlkarem/"><img src="https://img.shields.io/badge/LinkedIn-Connect-302820?style=for-the-badge&logo=linkedin&logoColor=F1EDE3" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@mohsenabdlkarem"><img src="https://img.shields.io/badge/YouTube-Programming%20Bebasata-302820?style=for-the-badge&logo=youtube&logoColor=F1EDE3" alt="YouTube"></a>
   <a href="mailto:mohsen@eilyatech.com"><img src="https://img.shields.io/badge/Email-mohsen%40eilyatech.com-302820?style=for-the-badge&logo=maildotru&logoColor=F1EDE3" alt="Email"></a>
-  <a href="https://linktr.ee/MohsenAbdElkareem"><img src="https://img.shields.io/badge/All%20links-Linktree-302820?style=for-the-badge&logo=linktree&logoColor=F1EDE3" alt="Linktree"></a>
+  <a href="https://linktr.ee/mohsenabdlkarem"><img src="https://img.shields.io/badge/All%20links-Linktree-302820?style=for-the-badge&logo=linktree&logoColor=F1EDE3" alt="Linktree"></a>
 </p>
 
 ---
@@ -50,7 +50,7 @@ Multiplatform, designed complex HMI-style UI systems, and led teams that ship re
 
 ### Teaching
 
-I explain programming in plain Arabic on **[Programming Bebasata](https://www.youtube.com/@mohsen.abd.elkareem)**:
+I explain programming in plain Arabic on **[Programming Bebasata](https://www.youtube.com/@mohsenabdlkarem)**:
 practical Android, Kotlin, Flutter and mobile-architecture tutorials for developers who want to
 build better apps.
 
